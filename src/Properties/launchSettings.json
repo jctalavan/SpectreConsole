@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DemoSpectreConsoleApp": {
+      "commandName": "Project",
+      "commandLineArgs": "hello \"Juan Carlos\" -a \"Talavan Canelo\""
+    }
+  }
+}

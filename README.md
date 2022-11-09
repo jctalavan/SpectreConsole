@@ -1,2 +1,9 @@
-# SpectreConsole
-Examining nuget package Spectre.Console for building powerful and beauty console apps
+# Spectre.Console / Spectre.Console.Cli
+
+POC about Spectre.Console which is a .NET Standard 2.0 library that makes it easier to create beautiful console applications.
+
+[Documentation](https://spectreconsole.net/)
+
+### Other interesting articles
+
+<https://darthpedro.net/2020/12/10/lesson-1-1-starting-with-spectre-cli/>
